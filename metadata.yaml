@@ -1,0 +1,37 @@
+_repo: What-Need-of-Man-_30867
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Summers, Leo
+    aliases:
+    - Summers, L.R.
+    - Summers, L. R.
+    - Summers, Leo Ramon
+    birthdate: 1925
+    deathdate: 1985
+    gutenberg_agent_id: '26735'
+    url: http://www.gutenberg.org/2009/agents/26735
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Calin, Harold
+    gutenberg_agent_id: '34867'
+    url: http://www.gutenberg.org/2009/agents/34867
+description: ''
+gutenberg_issued: '2010-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30867'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'P'
+- !lcsh 'Science fiction'
+- !lcsh 'Space flight to the moon -- Fiction'
+- !lcsh 'Short stories'
+title: What Need of Man?
+url: http://www.gutenberg.org/ebooks/30867
